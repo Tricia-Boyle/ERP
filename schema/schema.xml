@@ -7,12 +7,12 @@
 				</column>
 				<column name="USER_NAME">
 								<type>CHAR</type>
-								<size>100</size>
+								<size>150</size>
 								<null>false</null>
 				</column>
 				<column name="USER_EMAIL">
 								<type>CHAR</type>
-								<size>100</size>
+								<size>150</size>
 								<null>false</null>
 				</column>
 </table>
